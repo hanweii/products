@@ -1,4 +1,5 @@
 # products
+[![Build Status](https://travis-ci.com/hanweii/products.svg?branch=main)](https://travis-ci.com/hanweii/products)
 Repo for the products team or NYU DevOps 2021 summer
 
 ## Prerequisite Installation using Vagrant VM
